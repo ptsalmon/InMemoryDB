@@ -19,4 +19,4 @@ python main.py
 
 ### Assignment Feedback
 
-I think it would be easier to provide students with a stub file already containing the InMemoryDB class with function headers, but leave the definitions blank and let the students implement them. This would make it much easier to grade because you could create standardized test cases formatted for the stub file. This would make grading faster and make the assignment more scalable.
+I think it would be easier to provide students with a stub file already containing the InMemoryDB class with function headers, but leave the definitions blank and let the students implement them. In this case, the submission is just the completed stub file. This would make it much easier to grade because you could create standardized test cases formatted for the stub file. This would make grading faster and make the assignment more scalable.
